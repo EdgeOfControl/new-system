@@ -33,5 +33,5 @@ If there are any applications you would like to add that are not listed in the P
 There is an accompanying bat file related to Notepad++. It is only applicable if Notepad++ is installed. The file name in the repository is notepadreplace.exe
 
 
-Copyright Joshua Lovejoy, 2020
+Copyright Joshua Lovejoy, 2020.
 All inquiries about this repository are to be sent to ctrl@customsforge.com
